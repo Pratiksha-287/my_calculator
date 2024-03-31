@@ -1,7 +1,7 @@
 # Simple Calculator
 
 A basic calculator implemented in JavaScript.
-![Calculator Screenshot](
+![Calculator Screenshot](calculator.png)
 
 
 ## Features
